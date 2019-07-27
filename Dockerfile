@@ -1,5 +1,5 @@
-FROM alpine:3.5
-MAINTAINER Arvind Rawat <arvindr226@gmail.com>
+FROM alpine:3.7
+MAINTAINER Celia Celiaca Sysadmin <sysadmin@celiaceliaca.com>
 
 RUN apk add --update --no-cache bash \
 				curl \
