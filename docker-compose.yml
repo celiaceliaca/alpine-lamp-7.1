@@ -2,7 +2,7 @@ version: "2.0"
 services:
   web:
     container_name: apache_server
-    image: arvindr226/alpine-lamp
+    image: celiaceliaca/alpine-lamp-7.1
     ports:
        - "80:80"
        - "443:443"
